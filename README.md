@@ -1,1 +1,1 @@
-A machine learning algorithm for labeling stars with their spectral classes
+A machine learning algorithm for classifying stars into 8 spectral classes
